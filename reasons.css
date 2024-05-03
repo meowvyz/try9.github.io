@@ -1,0 +1,24 @@
+body{
+    background-image: url('фонхелокит8.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.txt1{
+    margin-top: 3%;
+}
+.txt2{
+    font-family: 'Gill Sans';
+    font-size: 0.7vw;
+    color: rgb(255, 79, 161);
+}
+.order{
+    margin-top: 3%;
+    margin-left: 3%;
+font-size: 1.1vw;
+}
+a{
+
+    text-decoration: none;
+    font-family: rubik black;
+    color: #000;
+}
