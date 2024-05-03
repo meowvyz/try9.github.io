@@ -1,0 +1,200 @@
+
+html, body{
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+body{
+    background-image: url('фонмайн.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.img1{
+    margin-top: 6%;
+margin-left: 63%;
+transition: 3s; 
+display: block; 
+}
+.img1:hover{
+transform: scale(1.1); 
+}
+.txt1{
+    font-family: Epilepsy Sans;
+    color: rgb(255, 250, 252);
+    font-size: 2vw;
+    margin-top: -45%;
+    margin-left: 47%;
+    position: relative;
+    z-index: -1;
+}
+.txt2{
+    font-size: 3vw;
+    font-family:rubik BLACK;
+    color: rgb(255, 191, 218);
+}
+.txt3{
+   
+    font-size: 6vw;
+    font-family: rubik BLACK;
+    color: rgba(255, 152, 183, 0.596);
+    position: relative;
+    z-index: -1;
+}
+.us1{
+    margin-top: -20%;
+}
+.txt4{
+    margin-top: -48%;
+    text-align: center;
+    font-family: rUBIk BLACK;
+    color: rgb(226, 206, 219);
+    font-size: 1.2vw;
+}
+.order{
+    margin-top: -24%;
+    margin-left: 6%;
+    font-family: rUBIk BLACK;
+display: inline-block;
+padding: 2% 5%;
+background-color: #cc5959;
+text-decoration: none;
+border-radius: 3%;
+font-size: 2vw;
+transition: background-color 0.10 ease;
+
+}.order:hover{
+    background-color:#a54646;
+  }
+  a{
+    color: rgb(255, 255, 255);
+font-family: rubik black;
+    text-decoration: none;
+  }
+  .txt5{
+    font-size: 1.3vw;
+    text-align: center;
+    color: rgb(77, 9, 30);
+    font-family: Verdana;
+    margin-top: 16%;
+    margin-left: 7%;
+  }
+  .order1{
+    margin-top: 20%;
+    margin-left: 27%;
+    font-family: rUBIC BLACK;
+display: inline-block;
+padding: 2% 5%;
+background-color: #e95d74;
+text-decoration: none;
+border-radius: 3%;
+font-size: 3vw;
+transition: background-color 0.10 ease;
+
+}.order1:hover{
+    background-color: #cc5266;
+}
+.arrow{
+    margin-top: -20%;
+}
+.us2{
+    margin-left: 70%;
+    margin-top: -30%;
+}
+.kotgif{
+    margin-left: 20%;
+    margin-top: -30%;
+}
+.txt6{
+    margin-top: 10%;
+    text-align: right;
+    font-family: epilepsy sans;
+    color: rgb(252, 227, 237);
+    font-size: 2.2vw;   
+}
+.here{
+    margin-left: 10%;
+    margin-top: -27%;
+    transition: 3s; 
+    display: block; 
+    }
+    .here:hover{
+    transform: scale(1.1); 
+    }
+.arrow2{
+    margin-top: -15%;
+    
+    margin-left: 35%;
+}
+.eye{
+text-align: center;
+}
+.eye0{
+text-align: center;
+}
+.eye1{
+text-align: center;
+}
+.word{
+  width: 100%;
+  color: blue;
+}
+.rec{
+    opacity: 40%;
+    margin-top: -30%;
+  text-align: center;
+  
+}
+.cats2{
+    opacity: 90%;
+position:relative;
+z-index: -1;
+margin-top: -60%;
+}
+.txt7{
+        font-size: 6vw;
+        font-family: rubik black;
+        color: rgba(255, 152, 183, 0.596);
+        position: relative;
+        z-index: -1;
+}
+.u{
+    margin-top: -30%;
+    margin-left: 80%;
+}
+.for{
+    text-align: center;
+    margin-top: 20%;
+    transition: 3s; 
+    display: block; 
+    }
+    .for:hover{
+    transform: scale(1.1); 
+    }
+.txt8{
+    font-size: 1vw;
+    text-align: center;
+    font-family: Rubik black;
+    color: #cc5959;
+}
+.univ{
+margin-top: -30%;
+text-align: left;
+}
+.txt9{
+    font-size: 1.1vw;
+    font-family: epilepsy sans;
+    text-align: left;
+    margin-top: -35%;
+    color: #ffe0e5;
+}
+.r1{
+    margin-top: -10%;
+    margin-left: 26%;
+}
+.r2{
+    margin-top: -115%;
+    margin-left: 70%;
+}
+.r3{
+    margin-top:  -63%;
+    margin-left: 26%;
+}
